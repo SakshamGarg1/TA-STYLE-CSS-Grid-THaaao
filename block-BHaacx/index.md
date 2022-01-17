@@ -21,3 +21,7 @@ Find the small screen design in the assets folder.
 - Use any font-family that suits better for the layout.
 
 - Once you are done with the assignment connect with the mentor and get the code reviewed.
+  
+  
+  
+  jj
